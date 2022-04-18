@@ -18,4 +18,4 @@ This third image shows what the top of the page looks like when the screen resol
 This fourth image shows what the bottom of the page looks like when the screen resolution is less than 640px.
 <img src="./assets/images/examples/example4.png">
 
-The deployed website can be found at: 
+The deployed website can be found at: https://nileshachmeister.github.io/niles-hachmeister-portfolio-page/
